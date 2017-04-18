@@ -1,0 +1,30 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+#red{
+  position:relative;
+  width: 200px;
+  height: 200px;
+  background-color: #FF3508;
+  margin:20px auto;
+}
+
+#purple{
+  position:relative;
+  width:120px;
+  height: 120px;
+  top:40px;
+  margin:auto;
+  background-color: #802C76;
+}
+
+#yellow{
+  position:absolute;
+  top:0;
+  left:0;
+  width:60px;
+  height: 60px;
+  background-color: #FFF83F;
+}

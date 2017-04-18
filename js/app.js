@@ -1,4 +1,3 @@
-
 window.addEventListener('load',function(){
   var panel=document.getElementsByTagName('body')[0];
   var div1=document.createElement('div');

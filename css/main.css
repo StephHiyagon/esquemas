@@ -3,54 +3,50 @@ body{
   margin: 0;
 }
 
-#red{
-  position:relative;
+.divG{
   width: 200px;
   height: 200px;
-  background-color: #FF3508;
   margin:20px auto;
 }
 
-#purple{
+.divM{
   position:relative;
   width:100px;
   height: 100px;
   top:50px;
   margin:auto;
+}
+
+.divP{
+  position:absolute;
+  width:50px;
+  height: 50px;
+}
+
+#red{
+  background-color: #FF3508;
+}
+
+#purple{
   background-color: #802C76;
 }
 
 #yellow{
-  position:absolute;
   top:0;
   left:0;
-  width:50px;
-  height: 50px;
   background-color: #FFF83F;
 }
 
 #azul{
-  position:relative;
-  width: 200px;
-  height: 200px;
   background-color: #004AF9;
-  margin:20px auto;
 }
 
 #verde{
-  position:relative;
-  width:100px;
-  height: 100px;
-  top:50px;
-  margin:auto;
   background-color: #087620;
 }
 
 #negro{
-  position:absolute;
   top:-50px;
   left:-50px;
-  width:50px;
-  height: 50px;
   background-color: #000000;
 }
